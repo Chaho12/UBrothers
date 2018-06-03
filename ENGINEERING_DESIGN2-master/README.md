@@ -1,1 +1,3 @@
-# ENGINEERING_DESIGN2
+# ENGINEERING_DESIGN2 - 고대 전기전자공학부 종합설계 2 
+
+
