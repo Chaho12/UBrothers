@@ -11,5 +11,5 @@ Languages : JAVA, Python, JavaScript, NodeJS
 - Python을 이용해 음성인식 및 IoT device 제어
 - 3D 프린터를 이용해 3D 모델링 및 가정 제품 출력
 
-Poster Link : https://drive.google.com/open?id=1ZVfEhc-v5Prd5ZW0p3udqPIctbyQzMlV
-Award Link : https://drive.google.com/open?id=15d2y9XjmOkb9d_wE6yP7mVwPKWg-9_jM
+Poster Link : https://drive.google.com/open?id=1_ENOggpKFemqLZNVtYWfMxcLQ6Otq17H
+Award Link : https://drive.google.com/open?id=15NueTgSOoYkrHmyzCcEdk84vNGWqZNSY
