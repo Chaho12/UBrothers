@@ -1,1 +1,5 @@
-# ENGINEERING_DESIGN2_iot
+# ENGINEERING_DESIGN2_iot - 고대 전기전자공학부 종합설계 2
+
+IoT 부분을 담당하는 코드 입니다.
+
+*이 프로젝트는 학과 동기인 유정빈 학생과 같이 참여한 프로젝트입니다.
