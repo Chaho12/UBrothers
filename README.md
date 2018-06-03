@@ -14,3 +14,9 @@ Languages : JAVA, Python, JavaScript, NodeJS
 Poster Link : https://drive.google.com/open?id=1_ENOggpKFemqLZNVtYWfMxcLQ6Otq17H
 
 Award Link : https://drive.google.com/open?id=15NueTgSOoYkrHmyzCcEdk84vNGWqZNSY
+
+
+
+*이 프로젝트는 학과 동기인 유정빈 학생과 같이 참여한 프로젝트입니다.
+
+My Committment : Application with JSON communication, hardware modules with Raspberry Pi, Google Speech API
